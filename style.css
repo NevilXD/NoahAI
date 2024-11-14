@@ -18,7 +18,7 @@ body{
 }
 
 #logo{
-    width: 60vw;
+    width: 40vw;
 }
 
 h2{
@@ -65,6 +65,10 @@ h2{
 }
 
 @media screen and (max-width: 900px) {
+    #logo{
+        width: 60vw;
+    }
+    
     #btn{
         width: 50%;
     }

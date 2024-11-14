@@ -9,7 +9,7 @@
 
   <h2 align="center">Noah AI 👾</h2>
 
-  _🥀 Noah is an Artificial Intelligence made using JavaScript<br/>And HTML, CSS for making a beautiful UI✨._
+  _🥀 Noah is an Artificial Intelligence made using JavaScript for logic 🧑‍💻<br/>And HTML, CSS for making a beautiful UI✨._
 
   <a href="https://nevilxd.github.io/NoahAI"><strong>➥ Live Demo 🖤</strong></a>
 

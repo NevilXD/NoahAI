@@ -25,6 +25,9 @@
 #### Mobile 📱
 ![Noah Mobile Demo](mobile.png)
 
+### Demo Screen Recording 🥀
+![Noah Demo](Record_2024-11-14-15-35-08.mp4)
+
 ### Contact 📞
 
 _If you want to contact with me you can reach me at [**Telegram**](https://t.me/TheHamkerGuy)._

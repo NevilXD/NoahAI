@@ -19,8 +19,10 @@
 
 ### Demo Screenshots 🌟
 
+#### Desktop 🖥️
 ![Noah Desktop Demo](desktop.png)
 
+#### Mobile 📱
 ![Noah Mobile Demo](mobile.png)
 
 ### Contact 📞

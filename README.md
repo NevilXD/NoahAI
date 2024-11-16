@@ -11,13 +11,14 @@
 
   _🥀 Noah is an Artificial Intelligence made using JavaScript for logic 🧑‍💻<br/>And HTML, CSS for making a beautiful UI✨._
 
-  <a href="https://nevilxd.github.io/NoahAI"><strong>➥ Live Demo 🖤</strong></a>
+  <a href="https://nevilxd.github.io/NoahAI"><strong>➥ Open Noah 🖤</strong></a>
 
 </div>
 
 <br />
 
 ### Demo Screenshots 🌟
+
 
 #### Desktop 🖥️
 ![Noah Desktop Demo](desktop.png)
@@ -34,6 +35,7 @@
 * Can tell you the current time and date according to your locality 🤍.
 
 * Can introduce herself ✨.
+<hr>
 
 ### Contact 📞
 

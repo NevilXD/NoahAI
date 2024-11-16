@@ -24,7 +24,7 @@
 
 #### Mobile 📱
 ![Noah Mobile Demo](mobile.png)
-<hr>
+
 
 ### Features 💛
 

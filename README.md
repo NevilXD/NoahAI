@@ -5,7 +5,6 @@
   ![GitHub forks](https://img.shields.io/github/forks/NevilXD/NoahAI?style=social)
 
   <br />
-  <br />
 
   <h2 align="center">Noah AI 👾</h2>
 
@@ -25,17 +24,17 @@
 
 #### Mobile 📱
 ![Noah Mobile Demo](mobile.png)
+<hr>
 
 ### Features 💛
 
-* Can open google, facebook, instagram, whatsapp and youtube by just your voice command 😉.
+* _Can open google, facebook, instagram, whatsapp and youtube by just your voice command 😉._
 
-* Can search anything on the internet and show you all the results 🪄.
+* _Can search anything on the internet and show you all the results 🪄._
 
-* Can tell you the current time and date according to your locality 🤍.
+* _Can tell you the current time and date according to your locality 🤍._
 
-* Can introduce herself ✨.
-<hr>
+* _Can introduce herself ✨._
 
 ### Contact 📞
 

@@ -25,8 +25,15 @@
 #### Mobile 📱
 ![Noah Mobile Demo](mobile.png)
 
-### Demo Screen Recording 🥀
-![Noah Demo](Record_2024-11-14-15-35-08.mp4)
+### Features 💛
+
+* Can open google, facebook, instagram, whatsapp and youtube by just your voice command 😉.
+
+* Can search anything on the internet and show you all the results 🪄.
+
+* Can tell you the current time and date according to your locality 🤍.
+
+* Can introduce herself ✨.
 
 ### Contact 📞
 
